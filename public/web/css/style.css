@@ -1,0 +1,64 @@
+        @media (max-width: 600px) {
+            .imgheight {
+                height: 300px !important;
+            }
+            .forcefullwidth_wrapper_tp_banner {
+                height: 300px !important;
+            }
+            .tp-fullwidth-forcer {
+                height: 300px !important;
+            }
+            .mtab {
+                margin-bottom: 0px !important;
+            }
+        }
+        
+        .fs-14 {
+            font-size: 14px;
+        }
+        
+        .bg-orange {
+            background-color: #f15535;
+        }
+        
+        .txt {
+            color: #000;
+            font-weight: bold;
+        }
+        
+        .mtab {
+            margin-bottom: 50px;
+        }
+        
+        .ptab {
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        
+        html .nav-tabs .nav-item .nav-link:after {
+            background-color: #f15535;
+        }
+        
+        .icon-box-animation-1:not(.icon-box-animation-1-light) .icon-box:before,
+        .icon-box-animation-1:not(.icon-box-animation-1-light) .icon-box:after {
+            border-color: #f15535;
+        }
+        
+        .icon-box-animation-1:not(.icon-box-animation-1-light):before,
+        .icon-box-animation-1:not(.icon-box-animation-1-light):after {
+            border-color: #f15535;
+        }
+        
+        html .owl-carousel.carousel-center-active-items:not(.carousel-center-active-items-style-2):not(.carousel-center-active-items-style-3) .owl-item.active.current .card,
+        html .owl-carousel.carousel-center-active-items:not(.carousel-center-active-items-style-2):not(.carousel-center-active-items-style-3) .owl-item.active.current .testimonial-arrow {
+            background: #f15535 !important;
+        }
+        
+        html .owl-carousel:not(.mirrored) .owl-nav .owl-prev,
+        html .owl-carousel:not(.mirrored) .owl-nav .owl-next {
+            color: #f15535;
+        }
+        
+        .mt-30 {
+            margin-top: 30px;
+        }
